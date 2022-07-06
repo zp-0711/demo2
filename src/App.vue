@@ -12,6 +12,7 @@ export default {
     HelloWorld
   }
 }
+// kjndsjkn这是dev2分支体提交的代码
 </script>
 
 <style>
